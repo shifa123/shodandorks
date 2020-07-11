@@ -1,0 +1,55 @@
+#High Entropy Dorks for Sensitive Data Disclsoure & Endpoints for Bug Bounties / Penetration Testing 
+#Author Holds no Responsibility for any damage to any critical Infrastructure  
+#Alot of success to you ahead
+
+Useful Filter Searches for BB :- 
+
+kibana content-length:217 net:”cidr”
+org:”Amazon” ssl:”target”
+ssl:”target”
+html:”Dashboard Jenkins” http.component:”jenkins”
+http.title:”302 Found”
+http.component%3A”java”
+https://www.shodan.io/host/ip#9200
+https://www.shodan.io/host/ip
+X-Redirect-By: WordPress ssl:”name”
+query: html:”eBay Inc. All Right Reserved”
+X-Amz-Bucket-Region
+x-jenkins 200
+X-Generator: Drupal 7
+ssl:Google
+org:’Name’ port:’80’
+all:”mongodb server information” all:”metrics”
+port:27017 -all:”partially” all:”fs.files”
+port:”9200" all:”elastic indices”
+product:elastic port:9200
+product: CouchDB
+title:”system dashboard” html:jira
+product: “apache tomcat”
+ssl%3A”development”+org%3A”Amazon.com”+port%3A”number”
+http.component:ruby port:3000
+html:”secret_key_base”
+html:”rack.version”
+http.html:QUERY ssl:”domain.com”
+http.favicon.hash:81586312 200
+html:/dana-na/ Pulse Secure VPN exploit
+
+
+
+-----------------------------------------
+
+
+Some additional cheat sheet links:
+http://www.Shodanhq.com/?q=bitcoin-mining-proxy (Bitcoin proxy mining)
+http://www.Shodanhq.com/search?q=port%3A11 (Systat)
+http://www.Shodanhq.com/search?q=port%3A8089+splunkd (Splunk servers on tcp/8089)
+http://www.Shodanhq.com/search?q=port%3A17(Search for quote of the day)
+http://www.Shodanhq.com/search?q=port%3A123(Ntp monlist)
+http://www.Shodanhq.com/search?q=port%3A5632 (Vnc)
+http://www.Shodanhq.com/search?q=port%3A1434 ((MS-SQL (1434))
+http://www.Shodanhq.com/search?q=OpenSSL%2F1.0.1 (Servers running OpenSSL/1.0.1)
+http://www.Shodanhq.com/search?q=port%3A79 (Finger protocol)
+http://www.Shodanhq.com/search?q=port%3A15 (Netstat)
+http://www.Shodanhq.com/?q=telemetry+gateway (Telemetry gateway)
+http://www.Shodanhq.com/?q=port:161+country:US+simatic (Simatic automation system on port
+161 running in US)
