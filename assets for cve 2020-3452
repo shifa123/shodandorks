@@ -98,3 +98,5 @@ admin
 +CSCOU+
 +CSCOE+
 sessions
+
+Nmap NSE Script to test :- https://github.com/Gh0st0ne/http-vuln-cve2020-3452.nse/blob/master/nmap.nse
